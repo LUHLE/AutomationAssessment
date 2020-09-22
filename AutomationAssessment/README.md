@@ -21,4 +21,4 @@ Executing the Selenium testing **ONLY**
 * Dotnet Core 3.1
 
 ## Authors
-> Seabela Danny
+> Luhle Mgolombane
